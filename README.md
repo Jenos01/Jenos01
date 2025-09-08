@@ -59,14 +59,6 @@
 - 🌐 **EF SET (C1 Advanced English)** – Jan 2023  
 
 ---
-## 🌟 About Me
-- 🎯 Interested in **Web Development and Data Science**  
-- 🔍 Experienced in **Python, Java, C, C#, Angular, SpringBoot, PostgreSQL, Unity**  
-- 📊 Skilled in **Data Visualization & Analytics (Power BI, Python libraries)**  
-- ☁️ Exploring **Microsoft Azure Cloud Services**  
-- 💡 Enthusiastic about solving problems, teamwork, and continuous learning  
-
----
 
 ## 🌍 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bouali-medamin/)  
