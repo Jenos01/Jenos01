@@ -6,15 +6,6 @@
 
 ---
 
-## 🌟 About Me
-- 🎯 Interested in **Web Development and Data Science**  
-- 🔍 Experienced in **Python, Java, C, C#, Angular, SpringBoot, PostgreSQL, Unity**  
-- 📊 Skilled in **Data Visualization & Analytics (Power BI, Python libraries)**  
-- ☁️ Exploring **Microsoft Azure Cloud Services**  
-- 💡 Enthusiastic about solving problems, teamwork, and continuous learning  
-
----
-
 ## 🛠️ Skills
 
 ### Programming Languages  
@@ -66,6 +57,14 @@
 - 📊 **Power BI Fundamentals** – Jul 2024  
 - 🐍 **Data Scientist with Python** – Aug 2023  
 - 🌐 **EF SET (C1 Advanced English)** – Jan 2023  
+
+---
+## 🌟 About Me
+- 🎯 Interested in **Web Development and Data Science**  
+- 🔍 Experienced in **Python, Java, C, C#, Angular, SpringBoot, PostgreSQL, Unity**  
+- 📊 Skilled in **Data Visualization & Analytics (Power BI, Python libraries)**  
+- ☁️ Exploring **Microsoft Azure Cloud Services**  
+- 💡 Enthusiastic about solving problems, teamwork, and continuous learning  
 
 ---
 
