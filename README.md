@@ -1,7 +1,9 @@
 # 👋 Hi, I'm BouAli Med Amin  
 
 🎓 **Computer Science Student** specializing in **Software Engineering and Information Systems**  
+
 💻 Passionate about **Full-Stack Development, Data Analysis and Machine Learning**  
+
 🚀 Always eager to learn, build, and contribute to innovative projects  
 
 ---
@@ -30,8 +32,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-6f42c1?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-ff6f61?style=for-the-badge&logo=data:image/svg+xml;base64,[YOUR_BASE64_SVG]&logoColor=white)
+
+
+
+
 
 ### Game Development  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -41,27 +48,17 @@
 
 ---
 
-## 📌 Projects
-
-- **Kitchen & Bedroom Virtual Tour (VR)** – Unity & C#, Angular, SpringBoot, PostgreSQL  
-- **Heart Disease Predictor** – Logistic regression model + Power BI visualizations  
-- **Guide Me (Tourism Website)** – Product Owner, built with React.js using Agile Scrum  
-- **POS System** – Ongoing project for managing sales and inventory  
-- **Portfolio Website** – Showcasing web development and design skills  
-
----
-
-## 🎓 Education & Certifications
-- 🎓 **Faculty of Science of Sfax** – Software Engineering (2022–2025)  
-- 📜 **Microsoft Azure Fundamentals (AZ-900)** – *In progress*  
-- 📊 **Power BI Fundamentals** – Jul 2024  
-- 🐍 **Data Scientist with Python** – Aug 2023  
-- 🌐 **EF SET (C1 Advanced English)** – Jan 2023  
-
----
-
 ## 🌍 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bouali-medamin/)  
-- 📧 Email: **aminboualiaminbouali@gmail.com**    
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bouali-medamin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-BouAli%20Med%20Amin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aminboualiaminbouali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aminboualiaminbouali%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>    
 
 ---
+
+
