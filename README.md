@@ -1,6 +1,6 @@
 # 👋 Hi, I'm BouAli Med Amin  
 
-🎓 **Computer Science Student** specializing in **Software Engineering and Information Systems**  
+🎓 **Computer Science Graduate** specializing in **Software Engineering and Information Systems**  
 
 💻 Passionate about **Full-Stack Development, Data Analysis and Machine Learning**  
 
